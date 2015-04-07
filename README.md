@@ -1,8 +1,8 @@
 # About
 
-Part of speech tagged text from the Tibetan in Digital Communication ([larkpie.net/tibetancorpus](http://larkpie.net/tibetancorpus/)).
+Part of speech tagged text from the Tibetan in Digital Communication project ([larkpie.net/tibetancorpus](http://larkpie.net/tibetancorpus/)).
 
-These trained texts include all three of the projects groups of corpora:
+These tagged texts include all three of the projects groups of corpora:
 
 > At present, the corpus consists of three distinct collections. First, there is the Classical corpus.
 
@@ -265,4 +265,3 @@ This tag is used for present stem verbs, e.g. byed, ḥdzin, sgrub.
 # License
 
 > All software written as part of this project will be released under an open source license. Our Tibetan pos tagging software, incorporating a word segmentation component, will be released on Tibetan NLP, a GitHub page collecting tools and resources related to natural language processing of Tibetan. The page also has contributions from the Tibetan Buddhist Resource Center and the Tibetan & Himalayan Library.
-
